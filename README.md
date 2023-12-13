@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5tirner" alt="5tirner" /></a> </p>
 
-- 🌱 I’m currently learning *C, C++, SWIFT, SQL, DOCKER*
+- 🌱 I’m currently learning: *C, C++, SWIFT, SQL, DOCKER*.
 
-- 💬 Ask me about **something to think about, something philosophical or something related to programming if I can answer 😅**
+- 💬 Ask me about *something to think about, something philosophical or something related to programming if I can answer 😅*.
 
-- 📫 How to reach me **zakariasabri2001@gmail.com**
+- 📫 You can reach me on *zakariasabri2001@gmail.com*.
 
-- ⚡ Fun fact **I Think I am a crocodile**
+- ⚡ Fun fact *I Think I am a crocodile*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
