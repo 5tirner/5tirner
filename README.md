@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zakaria Sabri</h1>
 <h3 align="center">An individual who tries to do what he wants.</h3>
 
+**database[1337]> select * from student where login="zasabri";**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5tirner" alt="5tirner" /></a> </p>
 
-- 🌱 I’m currently learning **C,C++,SWIFT,SQL,DOCKER**
+- 🌱 I’m currently learning *C, C++, SWIFT, SQL, DOCKER*
 
 - 💬 Ask me about **something to think about, something philosophical or something related to programming if I can answer 😅**
 
