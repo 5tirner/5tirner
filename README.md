@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="1000" src="https://media.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif">
 
 <br><br>  💻 About Me :
-<br><br>- 💻 I’m currently learning **C, SWIFT, PYTHON**<br><br>- ❓ Ask me about **Something to think about, something philosophical or something related to programming if I can answer 😅**<br><br>- 📲 How to reach me **zakariasabri2001@gmail.com**
+<br><br>- 💻 I’m currently learning **C, C++, SWIFT, PYTHON**<br><br>- ❓ Ask me about **Something to think about, something philosophical or something related to programming if I can answer 😅**<br><br>- 📲 How to reach me **zakariasabri2001@gmail.com**
 
 
 # 💻 Tech Stack:
