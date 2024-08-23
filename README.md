@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5tirner" alt="5tirner" /></a> </p>
 
-- 🌱 I’m currently learning: *C, C++, SWIFT, SQL, DOCKER*.
+- 🌱 I’m currently learning: *C, C++, SWIFT, SQL, DOCKER, Python, Django, JavaScript*.
 
 - 💬 Ask me about *something to think about, something philosophical or something related to programming if I can answer 😅*.
 
