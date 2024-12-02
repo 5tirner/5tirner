@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5tirner" alt="5tirner" /></a> </p>
 
-- 🌱 I’m currently learning: *C, C++, SWIFT, SQL, DOCKER, Python, Django, JavaScript*.
+- 🌱 I’m currently learning: *C, C++, SWIFT, DOCKER, Python, Django, JavaScript, AngularJS*.
 
 - 💬 Ask me about *something to think about, something philosophical or something related to programming if I can answer 😅*.
 
-- 📫 You can reach me on *zakariasabri2001@gmail.com*.
+- 📫 You can reach me on *zasabr.connect@gmail.com*.
 
 - ⚡ Fun fact *I Think I am a crocodile*.
 
