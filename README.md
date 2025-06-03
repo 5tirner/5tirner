@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning: *C, C++, SWIFT, DOCKER, Python, Django, JavaScript, AngularJS, React*.
 
-- 💬 Ask me about *something to think about, something philosophical or something related to programming if I can answer 😅*.
-
 - 📫 You can reach me on *zasabr.connect@gmail.com*.
-
-- ⚡ Fun fact *I Think I am a crocodile*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
