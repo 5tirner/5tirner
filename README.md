@@ -1,20 +1,141 @@
-<h1 align="center">Hi 👋, I'm Zakaria Sabri</h1>
-<h3 align="center">An individual who tries to do what he wants.</h3>
+# 👋 Hi, I'm Zakaria Sabri
 
-**database[1337]> select * from student where login="zasabri";**
+🚀 **Software Engineer | Backend & Full-Stack Developer | AI & Systems Enthusiast**  
+🇲🇦 Morocco
 
-- 📫 You can reach me on *zasabr.connect@gmail.com*.
+I’m a software engineer passionate about **building scalable systems**, **high-performance backends**, and **AI-powered applications**.  
+I enjoy working close to the metal (C/C++) as much as designing modern web architectures with **Django, React, and microservices**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/5tirner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="5tirner" height="30" width="40" /></a>
-</p>
+I care deeply about **clean architecture, performance, and real-world impact**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5tirner&show_icons=true&locale=en&layout=compact" alt="5tirner" /></p>
+## 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5tirner&show_icons=true&locale=en" alt="5tirner" /></p>
+- 💻 Backend & Full-Stack Developer (Django, DRF, React, Next.js)
+- ⚙️ Strong systems background (C, C++, performance optimization)
+- 🤖 AI Engineer (LLMs, fine-tuning, agents, NLP, CV parsing)
+- 🧩 Competitive programmer (CodinGame rank **1226**, aiming for **#1**)
+- 🏗️ Microservices & Docker enthusiast
+- 📰 Backend lead on an **AI journalist web application**
+- 🔓 Open-source contributor (**XAD library – performance optimizations**)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5tirner&" alt="5tirner" /></p>
+> I enjoy turning **complex problems** into **simple, fast, and reliable systems**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧑‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
+
+---
+
+### 🧩 Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Channels](https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge)
+
+---
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+### 🤖 AI / ML
+- LLM fine-tuning (LoRA, Unsloth, Ollama)
+- NLP (spaCy, rule-based & ML parsing)
+- CV / document structure extraction
+- AI agents & workflows
+- Speech-to-text & translation pipelines
+
+---
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## 🧪 Projects Highlights
+
+### 📰 AI Journalist Platform
+- Backend lead using **Django + DRF**
+- Topic-based AI news generation
+- Conversational AI per user
+- Designed for scalability and real-time interaction
+
+---
+
+### 🎥 WebRTC Translation App
+- **Django Channels + WebSockets**
+- Real-time video/audio communication
+- Live speech recognition & EN ⇄ FR translation
+- Cookie-based room signaling
+
+---
+
+### 📄 CV Parsing Engine
+- Rule-based + NLP hybrid system
+- Extracts **education, experience, projects**
+- Supports **PDF, DOCX, TXT**
+- High accuracy across different CV formats
+
+---
+
+### 🧠 LLM Fine-Tuning
+- Hermes 3 (3B) fine-tuned with personal data
+- ChatML message formatting
+- Optimized LoRA pipelines using Unsloth
+
+---
+
+## 🏆 Competitive Programming
+
+- 🧠 CodinGame Rank: **1226**
+- 🎯 Goal: **Global Rank #1**
+- Focus on:
+  - Algorithms
+  - Data structures
+  - Performance optimization
+  - Clean problem modeling
+
+---
+
+## 📈 GitHub Stats
+
+![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5tirner&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5tirner&layout=compact&theme=dark&langs_count=8&hide_progress=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=5tirner&theme=dark)
+
+---
+
+## 📫 Contact Me
+
+- 📧 **Email:** zasabr.connect@gmail.com  
+- 📱 **Phone:** +212 621 608 931  
+- 🧑‍💻 **GitHub:** [github.com/5tirner](https://github.com/5tirner)
+
+---
+
+## ⚡ Philosophy
+
+> **Performance matters. Architecture matters.  
+> But solving real problems matters most.**
+
+If you like **clean code**, **fast systems**, or **AI done right**, let’s connect 🤝
