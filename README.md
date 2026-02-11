@@ -114,8 +114,16 @@ I care deeply about **clean architecture, performance, and real-world impact**.
 
 ## 📈 GitHub Stats
 
-![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5tirner&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5tirner&layout=compact&theme=dark&langs_count=8&hide_progress=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=5tirner&show_icons=true&theme=dark&hide_border=true"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=5tirner&layout=compact&theme=dark&langs_count=8&hide_progress=true&hide_border=true"
+  height="165"
+/>
+
 
 ---
 
