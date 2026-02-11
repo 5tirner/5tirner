@@ -3,10 +3,6 @@
 
 **database[1337]> select * from student where login="zasabri";**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5tirner" alt="5tirner" /></a> </p>
-
-- 🌱 I’m currently learning: *C, C++, SWIFT, DOCKER, Python, Django, JavaScript, AngularJS, React*.
-
 - 📫 You can reach me on *zasabr.connect@gmail.com*.
 
 <h3 align="left">Connect with me:</h3>
