@@ -15,7 +15,7 @@ I care deeply about **clean architecture, performance, and real-world impact**.
 - 💻 Backend & Full-Stack Developer (Django, DRF, React, Next.js)
 - ⚙️ Strong systems background (C, C++, performance optimization)
 - 🤖 AI Engineer (LLMs, fine-tuning, agents, NLP, CV parsing)
-- 🧩 Competitive programmer (CodinGame rank **1226**, aiming for **#1**)
+- 🧩 Competitive programmer (CodinGame rank **873**, aiming for **#1**)
 - 🏗️ Microservices & Docker enthusiast
 - 📰 Backend lead on an **AI journalist web application**
 - 🔓 Open-source contributor (**XAD library – performance optimizations**)
